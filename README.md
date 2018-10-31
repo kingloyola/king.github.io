@@ -23,7 +23,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://kingloyola.github.io/">Jasminemurrell.github.io</a></h1>
+      <h1><a href="https://kingloyola.github.io/">kingloyola.github.io</a></h1>
       
 
       
