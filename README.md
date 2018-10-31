@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Jasminemurrell.github.io | html, css</title>
+<title>kingloyola.github.io | html, css</title>
 <meta name="generator" content="Jekyll v3.7.4">
 <meta property="og:title" content="Jasminemurrell.github.io">
 <meta property="og:locale" content="en_US">
