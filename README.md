@@ -7,13 +7,13 @@
 <!-- Begin Jekyll SEO tag v2.5.0 -->
 <title>kingloyola.github.io | html, css</title>
 <meta name="generator" content="Jekyll v3.7.4">
-<meta property="og:title" content="Jasminemurrell.github.io">
+<meta property="og:title" content="kingloyola.github.io">
 <meta property="og:locale" content="en_US">
 <meta name="description" content="html, css">
 <meta property="og:description" content="html, css">
-<link rel="canonical" href="https://jasminemurrell.github.io/">
-<meta property="og:url" content="https://jasminemurrell.github.io/">
-<meta property="og:site_name" content="Jasminemurrell.github.io">
+<link rel="canonical" href="https://kingloyola.github.io/">
+<meta property="og:url" content="https://kingloyola.github.io/">
+<meta property="og:site_name" content="kingloyola.github.io">
 <script type="application/ld+json">
 {"headline":"kingloyola.github.io","@type":"WebSite","url":"https://kingloyola.github.io/","name":"kingloyola.github.io","description":"html, css","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
@@ -45,30 +45,30 @@
         font-size: 50px;
     }
     a {
-        color: red;
+        color: black;
         font-family: 'Verdana',  sans-serif;
         font-size: 24px;
         text-decoration: none;
     }
     a:hover{
-      color: green;
+      color: blue;
     }
   </style>
 
 
 
     <img src="3.JPG">
-    <div style="background-color:red">
+    <div style="background-color:black">
     <h1>This is the main page.</h1>
     </div>
-    <div style="background-color:green">
+    <div style="background-color:white">
     <p>From this page you can access the other pages</p>
     </div>
     <ul>
       <div style="background-color:grey">
         <li><a href="page1.html">Here is a link to your zine page</a></li>
         </div>
-        <div style="background-color:white">
+        <div style="background-color:green">
       <li><a href="page2.html">Here is a link to your description of your zine</a></li>
         </div>
         <div style="background-color:blue">
