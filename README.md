@@ -45,20 +45,20 @@
         font-size: 50px;
     }
     a {
-        color: black;
+        color: white;
         font-family: 'Verdana',  sans-serif;
         font-size: 24px;
         text-decoration: none;
     }
     a:hover{
-      color: blue;
+      color: white;
     }
   </style>
 
 
 
     <img src="3.JPG">
-    <div style="background-color:black">
+    <div style="background-color:white">
     <h1>This is the main page.</h1>
     </div>
     <div style="background-color:white">
