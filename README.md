@@ -191,25 +191,3 @@ border-left: 2px solid #DDDDDD;
 ol.notes li.note blockquote a{text-decoration: none; font-size:10px;}
 
 .navigation{display:none;}
-
-
-
-</style><style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="http://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=f5a70173e4db126d3aa1328d58a66677"><link rel="shortcut icon" href="https://66.media.tumblr.com/avatar_757618f30569_128.pnj"> 
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.blog.gunnerstahl.us/rss" /> 
-<meta name="viewport" content="width=820" /> 
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script><script type="text/javascript">
-$(document).ready(function() {
-$("body").css("display", "none");
-$("body").fadeIn(800);
-$("a.transition").click(function(event){
-event.preventDefault();
-linkLocation = this.href;
-$("body").fadeOut(1000, redirectPage);
-});
-function redirectPage() {
-window.location = linkLocation;
-}
-});
-</script><script src="http://static.tumblr.com/fiton9k/T5Mlg92fv/jquery-1.2.6.min.js" type="text/javascript" charset="utf-8"></script><script src="http://static.tumblr.com/fiton9k/D0Plgbx3t/hscroll.js" type="text/javascript" charset="utf-8"></script><script type="text/javascript" charset="utf-8">
