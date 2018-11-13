@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en-US"><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -48,46 +48,4 @@
         color: black;
         font-family: 'Verdana',  sans-serif;
         font-size: 24px;
-        text-decoration: none;
-    }
-    a:hover{
-      color: black;
-    }
-  </style>
-
-
-
-    <img src="3.JPG">
-    <div style="background-color:white">
-    <h1>This is the main page.</h1>
-    </div>
-    <div style="background-color:white">
-    <p>From this page you can access the other pages</p>
-    </div>
-    <ul>
-      <div style="background-color:white">
-        <li><a href="page1.html">Here is a link to your zine page</a></li>
-        </div>
-        <div style="background-color:white">
-      <li><a href="page2.html">Here is a link to your description of your zine</a></li>
-        </div>
-        <div style="background-color:white">
-      <li><a href="page3.jpg">Here is a link to page your logo</a></li>
-        </div>
-      <li><a href="homework.html">Here is a link to Homework One: Photoshop Alterego</a>
-      </li><li><a href="homeworkpart2.html">Here is a link to Homework video 1</a>
-      </li><li><a href="photoshop.html">Here is a link to After Effects Video</a></li>
- 
-
-</ul>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    
-  
-
-</body>
-</html>
+        
