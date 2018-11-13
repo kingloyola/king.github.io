@@ -36,22 +36,22 @@
   <title>My first website</title>
   <style>
     body {
-        background-color: black;
+        background-color: white;
         color: white;
     }
     h1 {
         font-family: 'Oswald', sans-serif;
-        color: white;
+        color: black;
         font-size: 50px;
     }
     a {
-        color: white;
+        color: black;
         font-family: 'Verdana',  sans-serif;
         font-size: 24px;
         text-decoration: none;
     }
     a:hover{
-      color: white;
+      color: black;
     }
   </style>
 
@@ -65,13 +65,13 @@
     <p>From this page you can access the other pages</p>
     </div>
     <ul>
-      <div style="background-color:grey">
+      <div style="background-color:white">
         <li><a href="page1.html">Here is a link to your zine page</a></li>
         </div>
-        <div style="background-color:green">
+        <div style="background-color:white">
       <li><a href="page2.html">Here is a link to your description of your zine</a></li>
         </div>
-        <div style="background-color:blue">
+        <div style="background-color:white">
       <li><a href="page3.jpg">Here is a link to page your logo</a></li>
         </div>
       <li><a href="homework.html">Here is a link to Homework One: Photoshop Alterego</a>
