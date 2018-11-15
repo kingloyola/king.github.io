@@ -34,7 +34,8 @@
     line-height: 16px;
     color: #444444;
     }
-  </style>      
+  </style> 
+<div class="ui_dialog_lock" style="display: none;"></div>
 <div id="side">
 <div class="title">0nlyking</div>
 <div class="info">0nlyking.images@gmail.com</div>
@@ -44,28 +45,6 @@
 <a href="page2.jpg" class="nav" target="_blank">logo</a>
 <a href="page4.html" class="nav" target="_blank">film</a>
    
-  <title>0nlyking</title>
-  <style>
-    body {
-        background-color: white;
-        color: white;
-    }
-    h1 {
-        font-family: 'Oswald', sans-serif;
-        color: black;
-        font-size: 50px;
-    }
-    a {
-        color: black;
-        font-family: 'Verdana',  sans-serif;
-        font-size: 24px;
-    text-decoration: none;
-           }
-    a:hover{
-      color: white;
-    }
-  </style>
-
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
