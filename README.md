@@ -25,7 +25,18 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://kingloyola.github.io/">kingloyola.github.io</a></h1>
-      
+body{
+
+background: url(file:///Users/king/Desktop/LOGO2%20copy.png) no-repeat;
+ 
+  width: 200px;
+  height: 200px;
+ background-attachment: fixed;
+background-position: center; 
+  padding: 0;
+  margin: 0;
+    
+}
  <title>0nlyking</title>
   <style>
    margin: 0px;
