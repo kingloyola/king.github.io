@@ -15,7 +15,8 @@
 <meta property="og:url" content="https://kingloyola.github.io/">
 <meta property="og:site_name" content="kingloyola.github.io">
 <script type="application/ld+json">
-{"headline":"kingloyola.github.io","@type":"WebSite","url":"https://kingloyola.github.io/","name":"kingloyola.github.io","description":"html, css","@context":"http://schema.org"}</script>
+ {"headline":"kingloyola.github.io","@type":"WebSite","url":"https://kingloyola.github.io/","name":"kingloyola.github.io","description":"html, css","@context":"http://schema.org"}
+</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=89ba95dc55d01da68e2151c6ef1a99a6861c77a7">
@@ -37,20 +38,19 @@
   </style> 
 <div class="ui_dialog_lock" style="display: none;"></div>
 <div id="side">
-<div class="title">0nlyking</div>
-<div class="info">0nlyking.images@gmail.com</div>
-<a href="https://www.kingloyola.com/" class="nav">images</a>
-<a href="https://instagram.com/0nlyking.us/" class="nav" target="_blank">instagram</a>
-<a href="page1.html" class="nav" target="_blank">zine</a>
-<a href="page2.jpg" class="nav" target="_blank">logo</a>
-<a href="page4.html" class="nav" target="_blank">film</a>
-   
+ </li><a href="https://www.kingloyola.com/" class="nav">images</a>
+  </li>
+ </li><a href="https://instagram.com/0nlyking.us/" class="nav" target="_blank">instagram</a>
+  </li>
+ </li><a href="page1.html" class="nav" target="_blank">zine</a>
+  </li>
+ </li><a href="page2.jpg" class="nav" target="_blank">logo</a>
+  </li>
+ </li><a href="page4.html" class="nav" target="_blank">film</a>
+  </li>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     
   
-
-</body>
-</html>
 
