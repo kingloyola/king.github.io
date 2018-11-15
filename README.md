@@ -25,15 +25,26 @@
       
       <h1><a href="https://kingloyola.github.io/">kingloyola.github.io</a></h1>
       
-
-      
-
-
-  <meta charset="utf-8">
-  <link href="https://fonts.googleapis.com/css? family=Abril Fatface" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Abril Fatface" rel="stylesheet">
-
-  <title>My first website</title>
+ <title>0nlyking</title>
+  <style>
+   margin: 0px;
+    background-color: #f5f2f2;
+    font-size: 11px;
+    font-family: Garamond, 'Hoefler Text', Times New Roman, Times, serif;
+    line-height: 16px;
+    color: #444444;
+    }
+  </style>      
+<div id="side">
+<div class="title">0nlyking</div>
+<div class="info">0nlyking.images@gmail.com</div>
+<a href="https://www.kingloyola.com/" class="nav">images</a>
+<a href="https://instagram.com/0nlyking.us/" class="nav" target="_blank">instagram</a>
+<a href="page1.html" class="nav" target="_blank">zine</a>
+<a href="page2.jpg" class="nav" target="_blank">logo</a>
+<a href="page4.html" class="nav" target="_blank">film</a>
+   
+  <title>0nlyking</title>
   <style>
     body {
         background-color: white;
@@ -55,34 +66,6 @@
     }
   </style>
 
-
-
-    <img src="3.JPG">
-    <div style="background-color:white">
-    <h1>This is the main page.</h1>
-    </div>
-    <div style="background-color:white">
-    <p>From this page you can access the other pages</p>
-    </div>
-    <ul>
-      <div style="background-color:white">
-        <li><a href="page1.html">Here is a link to your zine page</a></li>
-        </div>
-        <div style="background-color:white">
-      <li><a href="page2.html">Here is a link to your description of your zine</a></li>
-        </div>
-        <div style="background-color:white">
-      <li><a href="page3.jpg">Here is a link to page your logo</a></li>
-        </div>
-      <li><a href="homework.html">Here is a link to Homework One: Photoshop Alterego</a>
-      </li><li><a href="homeworkpart2.html">Here is a link to Homework video 1</a>
-      </li><li><a href="photoshop.html">Here is a link to After Effects Video</a></li>
- 
-
-</ul>
-
-
-      
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
