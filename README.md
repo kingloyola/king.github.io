@@ -22,7 +22,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://kingloyola.github.io/">kingloyola.github.io</a></h1>
+   
       
 
       
@@ -58,24 +58,24 @@
 
    
     <div style="background-color:white">
-    <h1>This is the main page.</h1>
+    <h1>???.</h1>
     </div>
     <div style="background-color:white">
-    <p>From this page you can access the other pages</p>
+    <p>LINKS</p>
     </div>
     <ul>
       <div style="background-color:white">
-        <li><a href="page1.html">Here is a link to your zine page</a></li>
+        <li><a href="page1.html">Zine</a></li>
         </div>
         <div style="background-color:white">
-      <li><a href="page2.html">Here is a link to your description of your zine</a></li>
+      <li><a href="page2.html">Zine Description</a></li>
         </div>
         <div style="background-color:white">
-      <li><a href="page3.jpg">Here is a link to page your logo</a></li>
+      <li><a href="page3.jpg">Logo</a></li>
         </div>
-      <li><a href="homework.html">Here is a link to Homework One: Photoshop Alterego</a>
-      </li><li><a href="homeworkpart2.html">Here is a link to Homework video 1</a>
-      </li><li><a href="photoshop.html">Here is a link to After Effects Video</a></li>
+      <li><a href="homework.html">Photoshop Alterego</a>
+      </li><li><a href="homeworkpart2.html">Film 1</a>
+      </li><li><a href="photoshop.html">Film 2</a></li>
  
 
 </ul>
