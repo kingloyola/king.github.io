@@ -1,4 +1,3 @@
-
 <html lang="en-US"><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,8 +14,7 @@
 <meta property="og:url" content="https://kingloyola.github.io/">
 <meta property="og:site_name" content="kingloyola.github.io">
 <script type="application/ld+json">
- {"headline":"kingloyola.github.io","@type":"WebSite","url":"https://kingloyola.github.io/","name":"kingloyola.github.io","description":"html, css","@context":"http://schema.org"}
-</script>
+{"headline":"kingloyola.github.io","@type":"WebSite","url":"https://kingloyola.github.io/","name":"kingloyola.github.io","description":"html, css","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=89ba95dc55d01da68e2151c6ef1a99a6861c77a7">
@@ -25,43 +23,69 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://kingloyola.github.io/">kingloyola.github.io</a></h1>
-body{
+      
 
-background: url(file:///Users/king/Desktop/LOGO2%20copy.png) no-repeat;
- 
-  width: 200px;
-  height: 200px;
- background-attachment: fixed;
-background-position: center; 
-  padding: 0;
-  margin: 0;
-    
-}
- <title>0nlyking</title>
+      
+
+
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css? family=Times New Roman" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Times New Roman" rel="stylesheet">
+
+  <title>My first website</title>
   <style>
-   margin: 0px;
-    background-color: #f5f2f2;
-    font-size: 11px;
-    font-family: Garamond, 'Hoefler Text', Times New Roman, Times, serif;
-    line-height: 16px;
-    color: #444444;
+    body {
+        background-color: white;
+        color: black;
     }
-  </style> 
-<div class="ui_dialog_lock" style="display: none;"></div>
-<div id="side">
- </li><a href="https://www.kingloyola.com/" class="nav">images</a>
-  </li>
- </li><a href="https://instagram.com/0nlyking.us/" class="nav" target="_blank">instagram</a>
-  </li>
- </li><a href="page1.html" class="nav" target="_blank">zine</a>
-  </li>
- </li><a href="page2.jpg" class="nav" target="_blank">logo</a>
-  </li>
- </li><a href="page4.html" class="nav" target="_blank">film</a>
-  </li>
+    h1 {
+        font-family: 'Oswald', sans-serif;
+        color: black;
+        font-size: 50px;
+    }
+    a {
+        color: black;
+        font-family: 'Verdana',  sans-serif;
+        font-size: 24px;
+        text-decoration: none;
+    }
+    a:hover{
+      color: black;
+    }
+  </style>
+
+
+
+   
+    <div style="background-color:white">
+    <h1>This is the main page.</h1>
+    </div>
+    <div style="background-color:white">
+    <p>From this page you can access the other pages</p>
+    </div>
+    <ul>
+      <div style="background-color:white">
+        <li><a href="page1.html">Here is a link to your zine page</a></li>
+        </div>
+        <div style="background-color:white">
+      <li><a href="page2.html">Here is a link to your description of your zine</a></li>
+        </div>
+        <div style="background-color:white">
+      <li><a href="page3.jpg">Here is a link to page your logo</a></li>
+        </div>
+      <li><a href="homework.html">Here is a link to Homework One: Photoshop Alterego</a>
+      </li><li><a href="homeworkpart2.html">Here is a link to Homework video 1</a>
+      </li><li><a href="photoshop.html">Here is a link to After Effects Video</a></li>
+ 
+
+</ul>
+
+
+      
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     
   
 
+</body></html>
