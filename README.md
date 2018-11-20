@@ -38,25 +38,7 @@
     background-image: url('https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655');
     background-size: cover;
 }
-    h1 {
-        font-family: 'Oswald', sans-serif;
-        color: black;
-        font-size: 50px;
-    }
-    a {
-        color: black;
-        font-family: 'Verdana',  sans-serif;
-        font-size: 24px;
-        text-decoration: none;
-    }
-    a:hover{
-      color: black;
-    }
-  </style>
 
-
-
-   
     <div style="background-color:white">
     <h1>???.</h1>
     </div>
