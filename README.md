@@ -34,10 +34,10 @@
 
   <title>My first website</title>
   <style>
-    body {
-        background-color: white;
-        color: black;
-    }
+  body{
+    background-image: url('https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655');
+    background-size: cover;
+}
     h1 {
         font-family: 'Oswald', sans-serif;
         color: black;
