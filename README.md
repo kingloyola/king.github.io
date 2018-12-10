@@ -1,4 +1,4 @@
-<html lang="en-US"><head>
+><html lang="en-US"><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,7 +24,7 @@
     body{
             background-image: url('https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655');  
            }
-  </style
+  </style>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
