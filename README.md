@@ -6,6 +6,7 @@
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
 <title>kingloyola.github.io '|' html, css</title>
+<LINK="#000000">
 <meta name="generator" content="Jekyll v3.7.4">
 <meta property="og:title" content="kingloyola.github.io">
 <meta property="og:locale" content="en_US">
