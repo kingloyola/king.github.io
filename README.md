@@ -22,9 +22,8 @@
 
 </head>
 <style>
-    body{
-    background-image: url("https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655");
-        }
+    <img src=”https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655”
+   
 </style>
 
   <body>
