@@ -6,7 +6,6 @@
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
 <title>kingloyola.github.io '|' html, css</title>
-<LINK="#000000">
 <meta name="generator" content="Jekyll v3.7.4">
 <meta property="og:title" content="kingloyola.github.io">
 <meta property="og:locale" content="en_US">
@@ -22,6 +21,7 @@
 <link rel="stylesheet" href="/assets/css/style.css?v=89ba95dc55d01da68e2151c6ef1a99a6861c77a7">
 
 </head>
+    <LINK="#000000">
 
 
 
