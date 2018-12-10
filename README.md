@@ -29,13 +29,10 @@
   background-color: transparent; 
   text-decoration: none;
             }
-    img { 
-  width: 100%; 
-        }
    </style>
   <body>
   <div class="container-lg px-3 my-5 markdown-body">
-  <img src="https://media.tenor.com/images/46adc466d0f2a02fb923518dadf76be6/tenor.gif" width="128" height="128">
+  <img src="https://media.tenor.com/images/46adc466d0f2a02fb923518dadf76be6/tenor.gif" style = "width:500px;height:500px;">
   
 
 
