@@ -19,23 +19,9 @@
 
     <link rel="stylesheet" href="/assets/css/style.css?v=89ba95dc55d01da68e2151c6ef1a99a6861c77a7">
   </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-   
-      
-
-      
-
-
-  <meta charset="utf-8">
-  <link href="https://fonts.googleapis.com/css? family=Times New Roman" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Times New Roman" rel="stylesheet">
-
-  <title>My first website</title>
   <style>
   body{
-    background =  url('https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655');
+    background-image: url('https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655');
     background-size: cover;
     }
     h1 {
@@ -53,12 +39,24 @@
       color: black;
     }
   </style>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+   
+      
+
+      
 
 
-    body {
-        background-image: url("https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655");
-    } 
- 
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css? family=Times New Roman" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Times New Roman" rel="stylesheet">
+
+  <title>My first website</title>
+  
+
+
+   
 
     <div style="background-color:white">
     <h1>My First Website</h1>
