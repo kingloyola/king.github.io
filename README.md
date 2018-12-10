@@ -1,3 +1,4 @@
+
 ><html lang="en-US"><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,14 +18,14 @@
 {"headline":"kingloyola.github.io","@type":"WebSite","url":"https://kingloyola.github.io/","name":"kingloyola.github.io","description":"html, css","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-   <link rel="stylesheet" href="/assets/css/style.css?v=89ba95dc55d01da68e2151c6ef1a99a6861c77a7">
+<link rel="stylesheet" href="/assets/css/style.css?v=89ba95dc55d01da68e2151c6ef1a99a6861c77a7">
 
-   </head>
+</head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      body{
-            background-image: url("https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655");  
-           } 
+   
+    background-image: url("https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655");  
+       
       
 
 
@@ -67,4 +68,5 @@
     
   
 
-</body></html>
+</body>
+</html>
