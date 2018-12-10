@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="/assets/css/style.css?v=89ba95dc55d01da68e2151c6ef1a99a6861c77a7">
 
 </head>
-    <LINK="#000000">
+   
 
 
 
