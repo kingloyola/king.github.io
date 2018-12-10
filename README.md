@@ -29,6 +29,11 @@
   background-color: transparent; 
   text-decoration: none;
             }
+    a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+              }
    </style>
   <body>
   <div class="container-lg px-3 my-5 markdown-body">
