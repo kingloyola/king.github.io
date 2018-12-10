@@ -18,7 +18,6 @@
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=89ba95dc55d01da68e2151c6ef1a99a6861c77a7">
-  </head>
   <style>
   body{
     background-image: url('https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655');
@@ -39,6 +38,8 @@
       color: black;
     }
   </style>
+  </head>
+  
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
@@ -51,8 +52,6 @@
   <meta charset="utf-8">
   <link href="https://fonts.googleapis.com/css? family=Times New Roman" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Times New Roman" rel="stylesheet">
-
-  <title>My first website</title>
   
 
 
