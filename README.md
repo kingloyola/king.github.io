@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>kingloyola.github.io | html, css</title>
+<title>kingloyola.github.io '|' html, css</title>
 <meta name="generator" content="Jekyll v3.7.4">
 <meta property="og:title" content="kingloyola.github.io">
 <meta property="og:locale" content="en_US">
@@ -22,13 +22,11 @@
 
 </head>
 
-<style>
-    <img src=”https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655”>
-</style>
+
 
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-   
+   <img src=”https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655”>
   
        
       
