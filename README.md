@@ -25,11 +25,9 @@
 
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-  <style>
-      body{
+    body{
     background-image: url("https://tenor.com/view/terio-popeyes-kid-looking-gif-4814655");
-           }
-  </style>
+        }
   
        
       
