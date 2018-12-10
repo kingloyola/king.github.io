@@ -29,6 +29,9 @@
   background-color: transparent; 
   text-decoration: none;
             }
+    img { 
+  width: 100%; 
+        }
    </style>
   <body>
   <div class="container-lg px-3 my-5 markdown-body">
