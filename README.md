@@ -34,6 +34,9 @@
   background-color: transparent;
   text-decoration: none;
               }
+    a:hover {
+  color: gray;
+            }
    </style>
   <body>
   <div class="container-lg px-3 my-5 markdown-body">
