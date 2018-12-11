@@ -50,7 +50,7 @@
    
 
     <div style="background-color:white">
-    <h1>King Loyola</h1>
+    <h1><a href="https://www.kingloyola.com/">King Loyola</h1>
     </div>
     <div style="background-color:white">
     <p>LINKS</p>
