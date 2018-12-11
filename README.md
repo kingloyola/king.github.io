@@ -63,9 +63,9 @@
         <li><a href="https://issuu.com/kingloyola/docs/zine">Zine</a></li>
         </div>
         <div style="background-color:white">
-      <li><a href="page3.jpg">Logo</a></li>
+      <li><a href="file:///Users/king/Desktop/LOGO.jpg">Logo</a></li>
         </div>
-      <li><a href="homework.html">Photoshop Alterego</a>
+      <li><a href="file:///Volumes/KING/Alter%20Ego.jpg">Photoshop Alterego</a>
       </li>
       <li><a href="https://youtu.be/_jmoKL3wwRc">Film</a>
       </li>
