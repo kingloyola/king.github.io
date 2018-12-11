@@ -50,7 +50,7 @@
    
 
     <div style="background-color:white">
-    <h1>King Santos</h1>
+    <h1>King Loyola</h1>
     </div>
     <div style="background-color:white">
     <p>LINKS</p>
