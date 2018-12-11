@@ -63,9 +63,6 @@
         <li><a href="page1.html">Zine</a></li>
         </div>
         <div style="background-color:white">
-      <li><a href="page2.html">Zine Description</a></li>
-        </div>
-        <div style="background-color:white">
       <li><a href="page3.jpg">Logo</a></li>
         </div>
       <li><a href="homework.html">Photoshop Alterego</a>
