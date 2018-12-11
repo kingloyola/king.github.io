@@ -60,7 +60,7 @@
     </div>
     <ul>
       <div style="background-color:white">
-        <li><a href="<iframe src="https://e.issuu.com/anonymous-embed.html?u=kingloyola&d=zine" width="944" height="500" frameborder="0" allowfullscreen="true"></iframe>">Zine</a></li>
+        <li><a href="https://issuu.com/kingloyola/docs/zine">Zine</a></li>
         </div>
         <div style="background-color:white">
       <li><a href="page3.jpg">Logo</a></li>
