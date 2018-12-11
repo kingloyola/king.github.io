@@ -66,7 +66,9 @@
       <li><a href="page3.jpg">Logo</a></li>
         </div>
       <li><a href="homework.html">Photoshop Alterego</a>
-      </li><li><a href="homeworkpart2.html">Film</a>
+      </li>
+      <li><a href="homeworkpart2.html">Film</a>
+      </li>
  
 
 </ul>
