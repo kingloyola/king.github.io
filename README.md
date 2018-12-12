@@ -63,7 +63,7 @@
         <li><a href="https://issuu.com/kingloyola/docs/zine">Zine</a></li>
         </div>
         <div style="background-color:white">
-      <li><a href="fhttps://lh6.googleusercontent.com/74Jb-Q0BzLDgqeb5R4sW_0dKvZJk85ZvUKWivJh7NWGRv7YjgAuuCJGaF6kYLFCAzdHT9us2NDD1CymbcrwW=w3360-h1666-rw">Logo</a></li>
+      <li><a href="https://lh3.googleusercontent.com/YjryjShra6G-jqSVW3jN3xujFZAwhb5hl67mjUQSwzdnoiYxlk7aE7O0bT56fiKfkrNgzNjDHqcHWePiuXwh=w3360-h1666-rw">Logo</a></li>
         </div>
       <li><a href="https://lh3.googleusercontent.com/RtijUYrhtlPXHRIiuV8iLGymmyXNVbpoODZ2EJ-iYFvwzyOEL7YC7jYaOX2FUGCCFvDgAG8nj1D6wXefwCyJ=w3360-h1666-rw">Photoshop Alterego</a>
       </li>
